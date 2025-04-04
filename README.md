@@ -36,3 +36,12 @@ A real-time traffic sign detection system using **YOLOv11s**, optimized for depl
 - Optional: Portable power supply for mobile testing  
 
 ---
+---
+
+## 📂 Dataset
+
+This project uses the **German Traffic Sign Detection Benchmark (GTSDB)** for training the YOLOv11s model.
+
+🔗 [Download GTSDB Dataset (Google Drive)](https://drive.google.com/file/d/1AudgxEPmgsP-0HrYzBKzAV0Gn2tyAJjI/view?usp=drive_link)
+
+The dataset contains annotated dashcam images of traffic signs in realistic driving conditions, ideal for training object detection models used in autonomous vehicles.
