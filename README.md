@@ -36,9 +36,6 @@ A real-time traffic sign detection system using **YOLOv11s**, optimized for depl
 - Optional: Portable power supply for mobile testing  
 
 ---
----
-
----
 
 ## 📂 Dataset
 
