@@ -21,7 +21,9 @@ A real-time traffic sign detection system using **YOLOv11s**, optimized for depl
 
 ## 🎬 Demo
 
-<img src="https://user-images.githubusercontent.com/your-demo.png" width="480"/>
+<
+[![Watch the demo](https://github.com/user-attachments/assets/60762d69-ba5c-4209-8d29-89f140b5299b)](https://youtu.be/bhc6ccFv0Xg)
+
 
 > *Real-time detection of traffic signs from dashcam footage using Pi camera and NCNN backend*
 
