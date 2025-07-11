@@ -61,21 +61,12 @@ These augmentations helped increase data diversity and robustness of the model t
   - Epochs: `100`
 - 🛠 Loss Function: Combination of objectness loss, classification loss, and bounding box regression loss
 
-Training was done using a GPU-enabled system (e.g., Google Colab or local CUDA GPU), and the best model was selected based on validation mAP.
+Training was done using a GPU-enabled system, and the best model was selected based on validation mAP.
 
 <img width="1096" height="530" alt="image" src="https://github.com/user-attachments/assets/4bb37545-2abb-458c-82e8-7d456abcba4e" />
 
 
----
 
-## 📈 Evaluation
-
-- 📊 Metrics:
-  - mAP@0.5: ~91%
-  - Precision: ~89%
-  - Recall: ~92%
-- 🔎 The model was tested on unseen validation images with cluttered backgrounds and varying lighting conditions.
-- 🎯 High detection accuracy was maintained across small, occluded, and angled traffic signs.
 
 ---
 
